@@ -1,0 +1,60 @@
+{
+   "20150207" : {
+      "CHINOR" : {
+         "spread" : 2,
+         "time" : "7:00",
+         "time_n" : "7.00",
+         "away" : "CHI",
+         "home" : "NOR",
+         "total" : "196.0"
+      },
+      "BKNWAS" : {
+         "spread" : 6.5,
+         "time" : "7:00",
+         "time_n" : "7.00",
+         "away" : "BKN",
+         "home" : "WAS",
+         "total" : "192.5"
+      },
+      "GSWNYK" : {
+         "spread" : 15,
+         "time" : "7:30",
+         "time_n" : "7.30",
+         "away" : "GSW",
+         "home" : "NYK",
+         "total" : "205.0"
+      },
+      "CHAPHI" : {
+         "spread" : 8.5,
+         "time" : "7:30",
+         "time_n" : "7.30",
+         "away" : "CHA",
+         "home" : "PHI",
+         "total" : "183.0"
+      },
+      "PORDAL" : {
+         "spread" : 4,
+         "time" : "8:30",
+         "time_n" : "8.30",
+         "away" : "POR",
+         "home" : "DAL",
+         "total" : "208.0"
+      },
+      "BOSMIL" : {
+         "spread" : 7,
+         "time" : "8:30",
+         "time_n" : "8.30",
+         "away" : "BOS",
+         "home" : "MIL",
+         "total" : "193.5"
+      },
+      "SACUTA" : {
+         "spread" : 6,
+         "time" : "9:00",
+         "time_n" : "9.00",
+         "away" : "SAC",
+         "home" : "UTA",
+         "total" : "195.0"
+      }
+   }
+}

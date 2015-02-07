@@ -1,0 +1,21 @@
+{
+   "max_players_per_position" : 20,
+   "max_players_per_game" : 3,
+   "noob_finder_enable" : 0,
+   "salary" : 60000,
+   "min_minutes_required" : 29,
+   "min_points_required" : 19,
+   "positions" : [
+      "PG",
+      "PG",
+      "SG",
+      "SG",
+      "SF",
+      "SF",
+      "PF",
+      "PF",
+      "C"
+   ],
+   "max_players_per_team" : 2,
+   "num_lineups" : 5
+}

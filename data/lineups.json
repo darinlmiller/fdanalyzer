@@ -1,0 +1,88 @@
+
+[
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Trey Burke",
+			"Giannis Antetokounmpo",
+			"Wesley Matthews",
+			"Gordon Hayward",
+			"Chandler Parsons",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 290.3894042968750,
+		"salary" : 60000
+	},
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Trey Burke",
+			"Monta Ellis",
+			"Wesley Matthews",
+			"Gordon Hayward",
+			"Luc Mbah a Moute",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 290.2672424316406,
+		"salary" : 59900
+	},
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Trey Burke",
+			"Giannis Antetokounmpo",
+			"Wesley Matthews",
+			"Gordon Hayward",
+			"Luc Mbah a Moute",
+			"LaMarcus Aldridge",
+			"Jared Sullinger",
+			"Al Jefferson"
+		],
+		"points" : 289.2742004394531,
+		"salary" : 60000
+	},
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Trey Burke",
+			"Tyreke Evans",
+			"Giannis Antetokounmpo",
+			"Gordon Hayward",
+			"Chandler Parsons",
+			"Cody Zeller",
+			"Jared Sullinger",
+			"Al Jefferson"
+		],
+		"points" : 288.1536865234375,
+		"salary" : 59500
+	},
+	
+	{
+		"players" : 
+		[
+			"Trey Burke",
+			"Langston Galloway",
+			"Tyreke Evans",
+			"Giannis Antetokounmpo",
+			"Gordon Hayward",
+			"Chandler Parsons",
+			"Cody Zeller",
+			"Jared Sullinger",
+			"Al Jefferson"
+		],
+		"points" : 288.0389709472656,
+		"salary" : 59900
+	}
+]

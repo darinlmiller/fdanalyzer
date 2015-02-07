@@ -1,0 +1,2 @@
+#LWP-Cookies-1.0
+Set-Cookie3: RotoMonsterUserId="I/UpTmQUlwyXmCKennqpSHeJCD0ETSNj48M3nAjDuaA="; path="/"; domain=basketballmonster.com; path_spec; expires="2044-12-09 04:26:10Z"; version=0

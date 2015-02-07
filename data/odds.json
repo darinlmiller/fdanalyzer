@@ -1,0 +1,58 @@
+{
+   "UTADET" : {
+      "spread" : 4,
+      "date" : "11/09/2014 18:05",
+      "away" : "UTA",
+      "total" : "195",
+      "home" : "DET"
+   },
+   "CHALAL" : {
+      "spread" : 4,
+      "date" : "11/09/2014 21:35",
+      "away" : "CHA",
+      "total" : "205",
+      "home" : "LAL"
+   },
+   "GSWPHO" : {
+      "spread" : 1,
+      "date" : "11/09/2014 20:05",
+      "away" : "GSW",
+      "total" : "209.5",
+      "home" : "PHO"
+   },
+   "DENPOR" : {
+      "spread" : 9,
+      "date" : "11/09/2014 21:05",
+      "away" : "DEN",
+      "total" : "204.5",
+      "home" : "POR"
+   },
+   "MIADAL" : {
+      "spread" : 8,
+      "date" : "11/09/2014 19:35",
+      "away" : "MIA",
+      "total" : "204.5",
+      "home" : "DAL"
+   },
+   "ORLBKN" : {
+      "spread" : 8,
+      "date" : "11/09/2014 15:35",
+      "away" : "ORL",
+      "total" : "197",
+      "home" : "BKN"
+   },
+   "SACOKC" : {
+      "spread" : 2,
+      "date" : "11/09/2014 19:05",
+      "away" : "SAC",
+      "total" : "194",
+      "home" : "OKC"
+   },
+   "PHITOR" : {
+      "spread" : 13,
+      "date" : "11/09/2014 19:05",
+      "away" : "PHI",
+      "total" : "203",
+      "home" : "TOR"
+   }
+}

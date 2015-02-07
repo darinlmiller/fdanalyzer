@@ -1,0 +1,88 @@
+
+[
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Langston Galloway",
+			"Giannis Antetokounmpo",
+			"Eric Gordon",
+			"Nicolas Batum",
+			"Gordon Hayward",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 397.1863403320313,
+		"salary" : 59500
+	},
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Langston Galloway",
+			"Giannis Antetokounmpo",
+			"Joe Johnson",
+			"Nicolas Batum",
+			"Gordon Hayward",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 396.4554443359375,
+		"salary" : 59600
+	},
+	
+	{
+		"players" : 
+		[
+			"Langston Galloway",
+			"Marcus Smart",
+			"Giannis Antetokounmpo",
+			"Eric Gordon",
+			"Nicolas Batum",
+			"Gordon Hayward",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 394.2359924316406,
+		"salary" : 59600
+	},
+	
+	{
+		"players" : 
+		[
+			"Jose Calderon",
+			"Marcus Smart",
+			"Giannis Antetokounmpo",
+			"Eric Gordon",
+			"Nicolas Batum",
+			"Gordon Hayward",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 394.1003417968750,
+		"salary" : 59200
+	},
+	
+	{
+		"players" : 
+		[
+			"Langston Galloway",
+			"Marcus Smart",
+			"Giannis Antetokounmpo",
+			"Joe Johnson",
+			"Nicolas Batum",
+			"Gordon Hayward",
+			"Cody Zeller",
+			"LaMarcus Aldridge",
+			"Al Jefferson"
+		],
+		"points" : 393.5051269531250,
+		"salary" : 59700
+	}
+]

@@ -1,0 +1,17 @@
+{
+   "max_players_per_game" : 6,
+   "salary" : 60000,
+   "max_players_per_team" : 4,
+   "num_lineups": 3,
+   "positions" : [
+      "PG",
+      "PG",
+      "SG",
+      "SG",
+      "SF",
+      "SF",
+      "PF",
+      "PF",
+      "C"
+   ]
+}
